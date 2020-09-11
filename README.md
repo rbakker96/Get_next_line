@@ -29,6 +29,7 @@ This project will not only allow you to add a very convenient function to your c
 • Global variables are forbidden.
 
 --------------------- Used resources ---------------------
+
 Most important new concepts which I needed to master and important resources used with that.
 
 • File Descripter / open / read -
