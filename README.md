@@ -2,8 +2,7 @@ Get Next Line - Reading a line on a fd is way too tedious
 
 --------------------- Project goal ---------------------
 
-Re-code a set of the libc functioThis project will not only allow you to add a very convenient function to your collection, but it will also allow you to learn a highly interesting new concept in C programming:
-static variables.ns, as defined in their man. Your functions will need to present the same prototype and behaviors as the originals. Your functions’ names must be prefixed by “ft_”. For instance strlen becomes ft_strlen. As a bonus I also worked on list functions.
+This project will not only allow you to add a very convenient function to your collection, but it will also allow you to learn a highly interesting new concept in C programming: static variables.
 
 --------------------- Technical considerations ---------------------
 
