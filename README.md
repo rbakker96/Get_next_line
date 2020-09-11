@@ -29,5 +29,10 @@ This project will not only allow you to add a very convenient function to your c
 • Global variables are forbidden.
 
 --------------------- Used resources ---------------------
+Most important new concepts which I needed to master and important resources used with that.
 
-• 
+• File Descripter / open / read -
+https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/
+
+• Static Variables in C
+https://www.geeksforgeeks.org/static-variables-in-c/
