@@ -8,7 +8,7 @@
 ---
 
 ### Project summary
-> 2th ring Codam project
+> 1th ring Codam project
 
 This project will not provide a very convenient function to the collection, but it will also introduce a highly interesting new concept in C programming: static variables.
 
