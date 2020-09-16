@@ -32,7 +32,7 @@ This project will not provide a very convenient function to the collection, but 
 ---
 
 ### Usage
-> Create a main to use the get_next_line function, for example this main print the written lines 
+> Create a main to use the get_next_line function, for example this main prints the written lines 
 
 ```javascript
 int	main(int argc, char **argv)
